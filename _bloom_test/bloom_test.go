@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/liangyaopei/bloom"
+	"github.com/licheng/bloom"
 )
 
 var letterRunes = []rune("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ")
